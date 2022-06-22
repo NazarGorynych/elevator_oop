@@ -8,7 +8,7 @@ If the elevator is not full, it will stop to get more people.
 ```
 1. git clone https://github.com/NazarGorynych/elevator_oop.git
 2. cd elevator_oop
-3. python3 application.py
+3. python3 main.py
 ```
 
  (C) 2022 Horchytsia Nazarii, Khmelnytskyi, Ukraine
